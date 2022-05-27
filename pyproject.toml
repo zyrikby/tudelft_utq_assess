@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "utq_assess"
+version = "0.1.0"
+description = "Jupyter notebooks for analysis assignments/exams results."
+authors = ["Yury Zhauniarovich <y.zhauniarovich@tudelft.nl>"]
+license = "CC-BY-SA 4.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.2"
+matplotlib = "^3.5.2"
+dataframe-image = "^0.1.1"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.13.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

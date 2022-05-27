@@ -1,0 +1,10 @@
+Parameter,Value
+min_student_score_points,41.0
+max_student_score_points,85.0
+min_computed_grade,4.6899999999999995
+max_computed_grade,8.65
+p_mean,0.6583870967741936
+Rit_mean,0.5844669465726293
+Rir_mean,0.4594868549110737
+alpha,0.7674950088554894
+SEM_SP,6.201437379148723
